@@ -1,16 +1,5 @@
 ## Hi there 👋I'm Dheeraj Dua(@dhrjdua)
-
-I'have completed by Data Science and Machine Learning certfication from IIT Roorkee
-**dhrjdua/dhrjdua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+I've completed by Data Science and Machine Learning certfication from IIT Roorkee
 - 🌱 I’m currently learning python 
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with some really interesting problems in Data Science and Machine Learning
-- 💬 Ask me about ...
 - 📫 How to reach me: https://www.linkedin.com/in/dheeraj-dua-6110b752/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
